@@ -1,0 +1,29 @@
+body{
+    background-image: url(/assignment/record.png);
+    background-repeat: repeat ;
+    margin: 0;
+}
+main{
+    padding: 1em;
+    background-color:lightgray;
+}
+header{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+/* STRECTH....Using classes for styling */
+.list{
+    background-color:black ;
+    color:white;
+    line-height: 1.5;
+    padding: 20px;
+}
+.list-item{
+   text-align: center;
+   list-style-type:none;
+}
+.paragraph{
+    text-align: center;
+}
